@@ -42,7 +42,8 @@
 #define Y_MIN_PIN          11
 #define Y_MAX_PIN          24
 #define Z_MIN_PIN          10
-#define Z_MAX_PIN          23
+#define Z_MAX_PIN          -2
+#define SERVO0_PIN         23
 
 //
 // Z Probe (when not Z_MIN_PIN)
